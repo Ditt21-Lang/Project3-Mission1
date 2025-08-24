@@ -8,7 +8,7 @@ Konten utama dari website ini meliputi:
 - **Biodata dan Kontak**: Informasi singkat serta media untuk terhubung.
 - **Riwayat Pendidikan**: Latar belakang pendidikan yang pernah ditempuh.
 - **Skills**: Keahlian yang dimiliki dalam bidang tertentu.
-- **Proyek**: Dokumentasi proyek yang pernah dibuat.
+- **Proyek**: Dokumentasi proyek yang pernah dibuat/dilakukan.
 
 ## B. Teknologi yang Digunakan
 - **HTML** → digunakan sebagai struktur utama halaman website.  
