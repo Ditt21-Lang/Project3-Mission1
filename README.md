@@ -1,4 +1,5 @@
 # Personal Website
+Gilang Aditya Sumarna_241511012_2A-D3
 
 ## A. Penjelasan Singkat
 Proyek ini merupakan pembuatan website personal menggunakan **HTML** dan **CSS**.  
@@ -13,3 +14,6 @@ Konten utama dari website ini meliputi:
 ## B. Teknologi yang Digunakan
 - **HTML** → digunakan sebagai struktur utama halaman website.  
 - **CSS** → digunakan untuk mengatur tampilan, desain, dan responsivitas website **(tanpa framework, hanya memanfaatkan Google Fonts)**.
+
+## C. Dokumentasi Framework
+Tidak ada framework yang dipakai selama proses pembuatan website ini
